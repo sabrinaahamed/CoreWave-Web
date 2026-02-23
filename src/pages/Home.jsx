@@ -5,7 +5,7 @@ import men from '../../public/men.png'
 
 const Home = () => {
   return (
-    <div className='relative bg-[#EEFFF9] py-[116px]'>
+    <div className='relative bg-[#EEFFF9] pt-[190px] pb-[116px]'>
         <Container>
           <div className='flex items-center justify-between '>
               <div>
